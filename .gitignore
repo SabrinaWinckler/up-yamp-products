@@ -155,7 +155,12 @@ cython_debug/
 # Data
 *.xls
 *.xlsx
-
+*.jpg
+*.csv
+*.png
+books/
+notes/
+posts/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
